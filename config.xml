@@ -24,4 +24,5 @@
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
     <icon src="img/icon/robot-hal-icon.png" />
+    <gap:plugin name="org.apache.cordova.camera" />
 </widget>
